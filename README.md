@@ -1,8 +1,11 @@
 # ToDoList
 
+This is a to-do list application:clipboard: written in React and TypeScript.
+
 ![image](https://github.com/YingChenCheng/ToDoList1/blob/master/doc/ToDoListBanner.png)
 
-This is a to-do list application:clipboard: written in React and TypeScript.
+To create a React app writen in TypeScript, we can run this command `npx create-react-app test --typescript` which `test` will be your project name.
+(Before using the command, make sure that you have installed node.js correctly.)
 
 ![image](https://github.com/YingChenCheng/ToDoList1/blob/master/doc/ToDoList_ScreenRecording.gif)
 
